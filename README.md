@@ -1,26 +1,29 @@
-### Hi 👋, I am David
-A passionate robotics and systems engineering student
+<div align="center">
+  <h2>Hi there 👋</h2>
+</div>
 
-- 🔭 I’m passionate about AI and ML, embedded systems and low level programming, 
+<!-- **A passionate robotics and systems engineering student** -->
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daveoc01/)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm David Ortiz,;RRobotics and systems engineering student,;Active+Learner/Researcher"></a>
+</p>
 
-# 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=david-oc17&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+[![Linkedin](https://img.shields.io/badge/-daveoc01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/daveoc01/)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=david-oc17&theme=prussian&hide_border=false)<br/>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<!--
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=david-oc17&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+- 🔭 I’m passionate about AI and ML, embedded systems and low level programming, robotics and vision systems, and much more!
+  
+<!-- - 🌱 I’m currently learning Git, Java y GitHub -->
+  
+- ⚡ Fun fact: I like to play chess.
 
-**Languages and tools**
-
-<a>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height=40//>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=40 />
+<img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg' height=40>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40/>
@@ -28,9 +31,20 @@ A passionate robotics and systems engineering student
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height=40/>
-</a>
 
+---
 
+# 📊 GitHub Stats:
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=david-oc17&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-oc17&theme=prussian&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+<!--
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=david-oc17&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 
 <!--
