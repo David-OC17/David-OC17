@@ -4,9 +4,7 @@
 
 <!-- **A passionate robotics and systems engineering student** -->
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm David+Ortiz,;RRobotics+and+systems+engineering+student,;Active+Learner/Researcher"></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hedvig+Letters+Serif+&duration=6000&pause=1000&random=false&width=650&height=60&lines=I+am+David+Ortiz;Robotics+%26+digital+systems+engineering+student;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
 
 [![Linkedin](https://img.shields.io/badge/-daveoc01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/daveoc01/)
 
