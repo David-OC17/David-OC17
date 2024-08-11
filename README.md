@@ -10,7 +10,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m passionate about AI and ML, embedded systems and low level programming, robotics and vision systems, and much more!
+- 🔭 Exploring my passion in embedded systems, hardware and software acceleration, robotics, machine learning and finance!
   
 <!-- - 🌱 I’m currently learning Git, Java y GitHub -->
   
