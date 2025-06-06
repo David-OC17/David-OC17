@@ -6,13 +6,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Exploring my passion in space, embedded systems, hardware and software acceleration, robotics, machine learning and finance/economics.
+- 🔭 Exploring my passion in space, hardware and software acceleration, robotics, machine learning and finance/economics.
 
-- 💼 I have been a Microsoft intern, a team leader of [DroneOps](https://github.com/DroneOps), an On-Campus intern at ITESM, amongs other projects!
-
-- 🌱 I’m currently learning more mathematics, I'm joining a rocket competition team and learning more low level programming.
+- 🌱 Currently learning abstract mathematics, and parallel computing.
   
-- ⚡ My hobbies are mountain biking, chess, video games,and most recently, bouldering.
+- ⚡ My hobbies are mountain biking, chess, and video games.
 
 <h2> Languages & skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
